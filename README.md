@@ -1,5 +1,5 @@
 # become_an_sre
-#### A guided path to becoming a strong SRE
+### A guided path to becoming a strong SRE
 
 ## How to guide:
 This repo is a work in progress. 
