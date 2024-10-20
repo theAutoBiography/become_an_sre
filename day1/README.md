@@ -21,8 +21,8 @@ Today you need to master the following keywords and concepts:
 
 ## Task 1
 
-- In the current terminal window, run the application ```day1app.py```. The logs for this app would get stored in ```day1app.log``` file.
-- Open a duplicate terminal window (navigate to the same path as day1app.py if a new terminal window was opened)
+- In the current terminal window, run the application ```day1app.py``` by executing ```python3 day1app.py```. The logs for this app would get stored in ```day1app.log``` file.
+- Open a duplicate terminal window (navigate to the same path as day1app.log if a new terminal window was opened)
 
 All further instructions deal with the log file 'day1app.log'
 - Print the entire log file in one shot
@@ -35,4 +35,4 @@ All further instructions deal with the log file 'day1app.log'
 - *Find the number of errors by error code and sort them in descending order of error count
 - *Find the user facing the largest number of errors
 
-Kill the application ```day1app.py```
+Kill the application ```day1app.py``` in the other terminal
