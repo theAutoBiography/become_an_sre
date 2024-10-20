@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 (~30-45 minutes)
 
 # Troubleshooting
 Today you need to master the following keywords and concepts:
@@ -31,8 +31,8 @@ All further instructions deal with the log file 'day1app.log'
 - Print the running log
 - Print all errors lines
 - Print the errors lines from now on
-- Print just the errors and not the entire lines
+- Find the user facing the largest number of errors
+- *Print just the error codes and not the entire lines
 - *Find the number of errors by error code and sort them in descending order of error count
-- *Find the user facing the largest number of errors
 
 Kill the application ```day1app.py``` in the other terminal
