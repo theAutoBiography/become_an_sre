@@ -2,6 +2,6 @@
 ### A guided path to becoming a strong SRE
 
 ## How to guide:
-This repo is a work in progress. 
-Please pull the latest code in main before starting for the day. 
+This repo is a work in progress. Clone the repo.\
+Please pull the latest code in main before starting for the day. \
 Follow the folder for each day.
