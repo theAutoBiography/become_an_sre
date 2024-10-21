@@ -36,3 +36,7 @@ All further instructions deal with the log file 'day1app.log'
 - *Find the number of errors by error code and sort them in descending order of error count
 
 Kill the application ```day1app.py``` in the other terminal
+
+## (Optional) Reading (extra ~30-45 minutes)
+
+[Have a read to get a high level understanding on linux file systems](https://opensource.com/life/16/10/introduction-linux-filesystems)
